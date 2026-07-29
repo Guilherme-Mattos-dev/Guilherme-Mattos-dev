@@ -37,6 +37,6 @@
 
 LinkedIn: (seu LinkedIn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-mattos-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mattos-dev&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Mattos-dev&show_icons=true)
