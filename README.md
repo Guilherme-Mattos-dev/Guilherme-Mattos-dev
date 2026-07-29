@@ -35,7 +35,7 @@
 
 ## 📫 Contato
 
-LinkedIn: (seu LinkedIn)
+LinkedIn: (https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzNj3S0jJSz6dWmSuOhN7fw%3D%3D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mattos-dev&layout=compact)
 
