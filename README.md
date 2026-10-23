@@ -15,15 +15,17 @@
 
 ## Sobre mim
 
-Estudo Engenharia de Software e já escolhi as áreas que quero seguir. Aprendo construindo projetos práticos e busco um **estágio** para ganhar experiência real e fazer networking.
+Estudo Engenharia de Software (2º semestre) e já escolhi as áreas que quero seguir. Aprendo construindo projetos práticos e busco um **estágio** para ganhar experiência real e fazer networking.
+
+**Idiomas:** Português (nativo) · Inglês (básico)
 
 ## Áreas de foco
 
+- **Engenharia de IA:** planejando, começando por Python
 - **Redes:** Cisco, VLANs, roteamento e DHCP
 - **Back-end:** Java e orientação a objetos
 - **Cibersegurança:** estudando
 - **Banco de dados:** estudando
-- **Inteligência artificial:** objetivo a longo prazo
 
 ## Tecnologias
 
@@ -33,6 +35,10 @@ Estudo Engenharia de Software e já escolhi as áreas que quero seguir. Aprendo 
 ![Git](https://img.shields.io/badge/Git-484f58?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-484f58?style=flat-square&logo=github&logoColor=white)
 
+## Cursos
+
+- **Cibersegurança: do Zero à Prática** (Santander, via DIO): em andamento
+
 ## Projetos
 
 | Projeto | Descrição |
@@ -40,3 +46,9 @@ Estudo Engenharia de Software e já escolhi as áreas que quero seguir. Aprendo 
 | [Rede Corporativa](https://github.com/Guilherme-Mattos-dev/Rede-Corporativa-de-Alta-Disponibilidade-Projeto-Pratico-em-Cisco-Packet-Tracer) | Rede para empresa fictícia com 4 VLANs, 2 core switches Layer 3, EtherChannel e DHCP Relay. *Cisco Packet Tracer* |
 | [Simulador de Caixa Eletrônico](https://github.com/Guilherme-Mattos-dev/Simulador-Caixa-Eletronico-JAVA) | ATM no console com PIN, saldo, depósito, saque e tratamento de exceções. *Java* |
 | [Atividades em C](https://github.com/Guilherme-Mattos-dev/Atividades-introdutorias-em-C) | Exercícios de lógica e fundamentos de programação. *C* |
+
+## Próximos passos
+
+- Concluir o curso de Cibersegurança
+- Aprofundar em Java
+- Fazer o curso de Python da Meta
