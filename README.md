@@ -44,6 +44,7 @@ Estudo Engenharia de Software (2º semestre) e já escolhi as áreas que quero s
 | Projeto | Descrição |
 | --- | --- |
 | [Rede Corporativa](https://github.com/Guilherme-Mattos-dev/Rede-Corporativa-de-Alta-Disponibilidade-Projeto-Pratico-em-Cisco-Packet-Tracer) | Rede para empresa fictícia com 4 VLANs, 2 core switches Layer 3, EtherChannel e DHCP Relay. *Cisco Packet Tracer* |
+| [Laboratórios de Redes](https://github.com/Guilherme-Mattos-dev/packet-tracer-labs) | Série de laboratórios no Cisco Packet Tracer, cada um com arquivo `.pkt`, prints e relatório. Em andamento. *Cisco Packet Tracer* |
 | [Simulador de Caixa Eletrônico](https://github.com/Guilherme-Mattos-dev/Simulador-Caixa-Eletronico-JAVA) | ATM no console com PIN, saldo, depósito, saque e tratamento de exceções. *Java* |
 | [Atividades em C](https://github.com/Guilherme-Mattos-dev/Atividades-introdutorias-em-C) | Exercícios de lógica e fundamentos de programação. *C* |
 
