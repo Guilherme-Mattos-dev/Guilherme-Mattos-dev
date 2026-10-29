@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Estudo Engenharia de Software (2º semestre) e já escolhi as áreas que quero seguir. Aprendo construindo projetos práticos e busco um **estágio** para ganhar experiência real e fazer networking.
+Estudo Engenharia de Software (2º semestre) e já tenho as áreas que quero seguir, mas estou aberto a conhecer outras. Aprendo construindo projetos práticos e busco um estágio para ganhar experiência real e fazer networking.
 
 **Idiomas:** Português (nativo) · Inglês (básico)
 
